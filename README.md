@@ -19,6 +19,4 @@ This project implements a sentiment analysis model using PyTorch and the IMDB da
 - Flask
 - Flask-CORS
 
-## Installation
 
-1. Clone the repository:
